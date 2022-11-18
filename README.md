@@ -1,32 +1,21 @@
 
-# Challenge-05
+# Challenge-06
 
 # Criteria 
 
-1. Membuat dokumentasi API berupa CRUD dan authentication
-2. Membuat API dengan sistem monolith
-3. Menggunakan design pattern
+1. Mengimplementasikan TDD (Test Driven Development) ke dalam project menggunakan Jest dengan hasil testing >= 80%
+2. Mampu mengimplementasikan Github Action CI/CD
 
-# Details
+# Fitur Wajib
 
-Baca code RESTful API yang sudah kamu buat
-di Chapter 4 dengan seksama, lalu buat
-dokumentasi untuk semua endpoint yang
-terdaftar di router.
+1. Implementasi Github Action
+2. Implementasi unit test untuk Back End
+3. Test setiap controller atau query dengan, minimum dua positive tests dan tiga negative tests. Gunakan Jest ya!
 
-Dokumentasi melingkupi:
-1. HTTP Method (wajib ada)
-2. URL (wajib ada)
-3. URL Parameter (jika ada)
-4. Query Parameter (jika ada)
-5. Request Body (jika ada)
-6. Format response (wajib ada)
+# Skill Metrics
 
-Pasang dokumentasi API Postman dalam satu
-routing.
-
-# Link API-Documentation
-
-https://documenter.getpostman.com/view/24260905/2s8YehSvqM
+● CI/CD menggunakan Github Action
+● Testing menggunakan Jest
+● Deploy fitur utama (wajib) dengan Vercel
 
 
